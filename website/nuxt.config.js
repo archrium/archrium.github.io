@@ -1,7 +1,8 @@
 export default {
   mode: 'static',
+  target: 'static',
   router: {
-    base: '/archrium.github.io/'
+    base: ''
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
