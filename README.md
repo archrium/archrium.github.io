@@ -41,6 +41,7 @@ This is a World of Warcraft Guild website and experimentation project.
             - create folder `discard`
                 - move readme to discard
                 - remove or merge gitignore 
+                - remove .git folder in website
             - install `npm install prism-themes`
         - nuxt 3
             - install `npx nuxi init nuxt-app`

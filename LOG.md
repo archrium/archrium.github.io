@@ -65,6 +65,7 @@
 - push
 
 # LOG
+- 20-Sep-2022 0.391     fix: Deployment
 - 20-Sep-2022 0.39      add: Deployment
 - 20-Sep-2022 0.38!     wip: adding content;
 - 20-Sep-2022 0.37      wip: Markdown render styling; add: content;
