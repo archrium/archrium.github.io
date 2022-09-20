@@ -129,7 +129,7 @@ export default {
     font-weight: 400;
     border-bottom: 0px solid var(--color-border);
     margin: auto;
-    opacity: 80%;
+    opacity: .8;
   }
 }
 
@@ -183,7 +183,7 @@ export default {
     font-weight: 400;
     border-bottom: 0px solid var(--color-border);
     margin: 0 0 0 3em;
-    opacity: 80%;
+    opacity: .8;
   }
 }
 
@@ -237,7 +237,7 @@ export default {
     font-weight: 400;
     border-bottom: 0px solid var(--color-border);
     margin: 0 0 0 4em;
-    opacity: 80%;
+    opacity: .8;
   }
 }
 
@@ -262,13 +262,13 @@ export default {
   color: var(--color);
   font-size: 150%;
   letter-spacing: .1em;
-  opacity: 80%;
+  opacity: .8;
   text-decoration: none;
 
 }
 
 .representation a:hover {
-  opacity: 90%;
+  opacity: .9;
   transition: opacity, 0.3s;
   cursor: pointer;
 }

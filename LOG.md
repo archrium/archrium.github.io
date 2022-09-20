@@ -30,6 +30,7 @@
 - [x] 18-Sep-2022 16-Sep-2022 add: adaptive css for different screen sizes
 - [x] 20-Sep-2022 13-Sep-2022 add: Markdown renderer table of contents
 - [x] 20-Sep-2022 20-Sep-2022 add: Markdown render stylings (basic)
+- [x] 20-Sep-2022 20-Sep-2022 fix: deployment opacity problem 100% degil 1 kullan
 - 13-Sep-2022 add: background image to whole page
 - 17-Sep-2022 add: gototop, mobile and tablet; circular background to prevent text overlapping
 - 18-Sep-2022 add: css navigation height i tek bir parametre yap main den screen size a gore degistir dosya icinde oynama
@@ -72,6 +73,7 @@
 - rename dist to docs
 
 # LOG
+- 20-Sep-2022 0.41      fix: Deployment: opacity problem
 - 20-Sep-2022 0.401     fix: Deployment: name fix
 - 20-Sep-2022 0.40      fix: Deployment: navigation
 - 20-Sep-2022 0.391     fix: Deployment
