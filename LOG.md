@@ -65,8 +65,14 @@
 - push
 
 # Deployment procedure
+- delete old_docs
+- rename docs to old_docs
+- npm run generate
+- move dist to main
+- rename dist to docs
 
 # LOG
+- 20-Sep-2022 0.401     fix: Deployment: name fix
 - 20-Sep-2022 0.40      fix: Deployment: navigation
 - 20-Sep-2022 0.391     fix: Deployment
 - 20-Sep-2022 0.39      add: Deployment
