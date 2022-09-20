@@ -64,7 +64,10 @@
 - change last update on website/data/guildstatus
 - push
 
+# Deployment procedure
+
 # LOG
+- 20-Sep-2022 0.40      fix: Deployment: navigation
 - 20-Sep-2022 0.391     fix: Deployment
 - 20-Sep-2022 0.39      add: Deployment
 - 20-Sep-2022 0.38!     wip: adding content;

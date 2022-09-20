@@ -122,7 +122,7 @@ export default {
   }
 
   .navigation-menu * {
-    color: var(--fg-color);
+    color: var(--color);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 80%;
@@ -176,7 +176,7 @@ export default {
   }
 
   .navigation-menu * {
-    color: var(--fg-color);
+    color: var(--color);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 80%;
@@ -230,7 +230,7 @@ export default {
   }
 
   .navigation-menu * {
-    color: var(--fg-color);
+    color: var(--color);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 80%;
@@ -244,7 +244,7 @@ export default {
 /* <!-- ==== General */
 .navigation-container {
   background: var(--bg-transparent);
-  color: var(--fg-color);
+  color: var(--color);
   backdrop-filter: var(--main-blur);
   /*  */
   width: 100%;
@@ -259,7 +259,7 @@ export default {
 
 
 .representation a {
-  color: var(--fg-color);
+  color: var(--color);
   font-size: 150%;
   letter-spacing: .1em;
   opacity: 80%;
@@ -311,7 +311,7 @@ export default {
 }
 
 .navigation-icons a:hover {
-  border-bottom: 0px solid var(--bg-color);
+  border-bottom: 0px solid var(--bg);
 }
 
 .navigation-icons *:hover {

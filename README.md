@@ -3,7 +3,7 @@ This is a World of Warcraft Guild website and experimentation project.
 
 | Project Started | Last Update | Version |
 | :-------------- | :---------- | :-----: | 
-| 02-Sep-2022     | 20-Sep-2022 | 0.37    |
+| 02-Sep-2022     | 20-Sep-2022 | 0.40    |
 # Table of Contents
 1. [Description](#description)
 2. [Installation and Usage](#installation-and-usage)
