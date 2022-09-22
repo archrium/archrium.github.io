@@ -24,6 +24,13 @@
 - nuxt content tutorials
     - https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/
 
+- hovercard / tooltips
+    - https://codepen.io/thorecardel/pen/BjrErz
+    - https://www.wowhead.com/tooltips
+
+- prose to override markdown renderings
+    - https://github.com/nuxt/content/tree/main/src/runtime/components/Prose
+
 # Structure
 
 - Colors
@@ -43,6 +50,12 @@
 # Dependencies
 
 # Notes
+- web design concepts
+    - navigation
+    - gototop
+    - hovercard
+    - tooltip
+
 - Naming rules
     - html class names: 
         - ex. names-should-be-written-like-this

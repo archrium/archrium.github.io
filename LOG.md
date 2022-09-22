@@ -31,21 +31,28 @@
 - [x] 20-Sep-2022 13-Sep-2022 add: Markdown renderer table of contents
 - [x] 20-Sep-2022 20-Sep-2022 add: Markdown render stylings (basic)
 - [x] 20-Sep-2022 20-Sep-2022 fix: deployment opacity problem 100% degil 1 kullan
+- [x] 20-Sep-2022 20-Sep-2022 add: markdownlar icin metadata belirle
+- [x] 21-Sep-2022 18-Sep-2022 add: Add actual content
+- [x] 22-Sep-2022 20-Sep-2022 add: tab logo, capitalize name
+- [x] 22-Sep-2022 21-Sep-2022 add: Hover on links, retrieve desc and icon of skill
+- [x] 22-Sep-2022 21-Sep-2022 add: class colors
 - 13-Sep-2022 add: background image to whole page
 - 17-Sep-2022 add: gototop, mobile and tablet; circular background to prevent text overlapping
 - 18-Sep-2022 add: css navigation height i tek bir parametre yap main den screen size a gore degistir dosya icinde oynama
-- 18-Sep-2022 add: Add actual content
 - 18-Sep-2022 add: feature list
-- 20-Sep-2022 add: markdownlar icin metadata belirle
+- 22-Sep-2022 add: title and copy function to markdown code block
 
 # Nomenclature 1.0
 
-# Keys - Discretized Actions 1.3
+# Keys - Discretized Actions 1.4
 - org: organization, decisions, notebook changes
 - arch: architectural, framework change, tryout
 
-- com: compatibility update
+- upd: compatibility update
 - add: add, insert, data content
+    - con: content
+    - sty: style/display
+    - fun: function
 
 - del: deleted
 - fix: fix a bug or problem
@@ -73,6 +80,12 @@
 - rename dist to docs
 
 # LOG
+- 22-Sep-2022 0.461     add: Deployment;
+- 22-Sep-2022 0.46      fun: Tooltips; org: Content; wip: Copy rendered codeblock;
+- 22-Sep-2022 0.45!     add: Content icons, class colors;
+- 22-Sep-2022 0.44      add: Wowhead tooltips; Tab icon, title;
+- 22-Sep-2022 0.43      add: Content organization; Index view-content separation;
+- 20-Sep-2022 0.42      add: Content, Deployment test
 - 20-Sep-2022 0.41      fix: Deployment: opacity problem
 - 20-Sep-2022 0.401     fix: Deployment: name fix
 - 20-Sep-2022 0.40      fix: Deployment: navigation
