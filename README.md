@@ -3,7 +3,7 @@ This is a World of Warcraft Guild website and experimentation project.
 
 | Project Started | Last Update | Version |
 | :-------------- | :---------- | :-----: | 
-| 02-Sep-2022     | 22-Sep-2022 | 0.46    |
+| 02-Sep-2022     | 28-Sep-2022 | 0.50    |
 # Table of Contents
 1. [Description](#description)
 2. [Installation and Usage](#installation-and-usage)
@@ -71,3 +71,5 @@ This is a World of Warcraft Guild website and experimentation project.
     - markdown test file by John Gruber
     - markdown test file (https://github.com/mxstbr/markdown-test-file)
     - bis list by brandonsturgeon (https://gist.github.com/brandonsturgeon/756ed49463ad8f659a1b760c1a20d441)
+    - tailwind labs - heroicons (https://github.com/tailwindlabs/heroicons)
+    - prisms css (https://prismjs.com/)

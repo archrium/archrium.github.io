@@ -36,11 +36,12 @@
 - [x] 22-Sep-2022 20-Sep-2022 add: tab logo, capitalize name
 - [x] 22-Sep-2022 21-Sep-2022 add: Hover on links, retrieve desc and icon of skill
 - [x] 22-Sep-2022 21-Sep-2022 add: class colors
+- [x] 27-Sep-2022 22-Sep-2022 add: copy function to markdown code block
+- [x] 28-Sep-2022 17-Sep-2022 add: gototop, mobile and tablet; circular background to prevent text overlapping
+- [x] 28-Sep-2022 27-Sep-2022 add: title function to markdown code block
 - 13-Sep-2022 add: background image to whole page
-- 17-Sep-2022 add: gototop, mobile and tablet; circular background to prevent text overlapping
 - 18-Sep-2022 add: css navigation height i tek bir parametre yap main den screen size a gore degistir dosya icinde oynama
 - 18-Sep-2022 add: feature list
-- 22-Sep-2022 add: title and copy function to markdown code block
 
 # Nomenclature 1.0
 
@@ -72,6 +73,13 @@
 - change last update on website/data/guildstatus
 - push
 
+# Swap repo
+- log off github / login github
+- desktop app logoff/loginn
+- change folder name to Swap
+- copy notebook, log, readme, timelog, docs
+- push
+
 # Deployment procedure
 - delete old_docs
 - rename docs to old_docs
@@ -80,6 +88,11 @@
 - rename dist to docs
 
 # LOG
+- 28-Sep-2022 0.50      add: Deployment;
+- 28-Sep-2022 0.49      sty: Macro titles;
+- 28-Sep-2022 0.48      add: Copy content function to markdown code block;
+- 25-Sep-2022 0.471     wip: Title and copy function to code block;
+- 25-Sep-2022 0.47      wip: Title and copy function to code block;
 - 22-Sep-2022 0.461     add: Deployment;
 - 22-Sep-2022 0.46      fun: Tooltips; org: Content; wip: Copy rendered codeblock;
 - 22-Sep-2022 0.45!     add: Content icons, class colors;

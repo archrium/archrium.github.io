@@ -81,6 +81,11 @@
     - container width %100 yap
     - wrapper %50 veya kacsa margin auto
 
+- <css ortalama flexbox>
+    - display: flex;
+    - align-items: center;
+    - justify-content: center;
+
 - <dark mode>
     - https://nuxtjs.org/tutorials/going-dark-with-nuxtjs-color-mode/
     - https://color-mode.nuxtjs.org/
@@ -111,5 +116,8 @@
 
 - <nuxt content markdown styling>
     - https://content.nuxtjs.org/v1/getting-started/configuration
+
+- <javascript: add onlick event to newly added element>
+    - https://stackoverflow.com/questions/3316207/add-onclick-event-to-newly-added-element-in-javascript
 
 # Shortcuts
